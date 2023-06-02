@@ -1,0 +1,23 @@
+.login-container
+{
+position: relative;
+top: 10rem;
+left: 24rem;
+width: 70rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.signup-container
+{
+position: relative;
+top: 10rem;
+left: 24rem;
+width: 70rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
